@@ -2,7 +2,7 @@
 
 Demo
 
-![TodoBoard Demo](image.png)
+![TodoBoard Demo](demo/image.png)
 
 ## Features
 
